@@ -2,8 +2,8 @@
 
 *An individual data storytelling project. Annaelle NDE MAMA, EFREI Paris, 2026 (#EFREIDataStories2026)*
 
-- **Live app:** [add the Streamlit link here]
-- **Demo video:** [add the video link here]
+- **Live app:** [https://gas-sobriety-dashboardprojetdatav.streamlit.app/]
+
 
 ---
 
