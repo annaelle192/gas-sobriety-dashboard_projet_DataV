@@ -1,0 +1,24 @@
+etape,lignes_concernees,detail
+Lecture du fichier régional,2874807,
+Lecture du fichier national,257136,
+Heures fantômes supprimées (régional),336,jours concernés : 14
+Doublons restants (régional),0,
+Heures fantômes supprimées (national),30,jours concernés : 15
+Doublons restants (national),3,
+Électricité négative remplacée par une valeur manquante,1,Auvergne-Rhône-Alpes 2025-11-13 11:30
+"Statut invalide remplacé (régional, statut_terega)",1,valeurs : ['vers']
+Colonne flag_ignore supprimée (toujours « non »),0,
+"Journées région incomplètes (signalées, non supprimées)",30,"sur 59,892 journées région"
+Jours avec un écart > 1 % (ecart_gaz_pct),1140,écart médian : 0.000 %
+Jours avec un écart > 1 % (ecart_elec_pct),27,écart médian : 0.000 %
+Heures fantômes supprimées (régional),0,jours concernés : 0
+Doublons restants (régional),0,
+Doublons restants supprimés (régional),0,
+Heures fantômes supprimées (national),0,jours concernés : 0
+Doublons restants (national),3,
+Doublons restants supprimés (national),3,
+Électricité négative remplacée par une valeur manquante,0,
+Colonne flag_ignore supprimée (toujours « non »),0,
+"Journées région incomplètes (signalées, non supprimées)",30,"sur 59,892 journées région"
+Jours avec un écart > 1 % (ecart_gaz_pct),1139,écart médian : 0.000 %
+Jours avec un écart > 1 % (ecart_elec_pct),24,écart médian : 0.000 %
